@@ -1,2 +1,2 @@
 # Agri-Trade-Hub
-Agri-Trade Hub - It's a platform where it connect district to district farmers, buyers and suppliers for agricultural trade, production collection and sales. It connects farmers, buyers and managers which ensures effortless supply chain with efficient logistics, secure transactions and real time inventory.
+Agri-Trade Hub -Agri-Trade Hub is a platform that connects farmers, buyers, and suppliers across districts, streamlining agricultural trade, production collection, and sales. It ensures a smooth supply chain with efficient logistics, secure transactions, and real-time inventory management, making the trading process easier and more reliable for everyone involved.
