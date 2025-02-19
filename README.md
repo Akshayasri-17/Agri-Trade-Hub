@@ -6,4 +6,5 @@ Also manages thetransactions, system performance to maintain efficiency.
 District Manager - Supervises the collection of agricultural product in their assigned district, coordinates logistics and communicates with warehouse manager.
 Warehouse Manager - Keeps tracking on inventory, ensuring stock levels, update product availability for buyers.
 Buyer - Searches agricultural products using smart filters, places, tracks order.
-Farmer - List their products with clear 
+Farmer - List their products with clear details and pricing. 
+Manages stock availability and updates listings as needed, coordinates with district managers and warehouse managers to ensure smooth logistics.
